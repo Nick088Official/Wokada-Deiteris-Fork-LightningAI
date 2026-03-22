@@ -7,6 +7,8 @@ A Lightning.AI Cloud Port of Wokada Deiteris Fork
 
 [AI HUB DOCS GUIDE](https://docs.aihub.gg/realtime-voice-changer/cloud/deiteris-w-okada-fork-lightning-ai/)
 
+**NOTE: ⚠️ "Server audio not available" is normal on cloud platforms as they have no physical sound card. Always use Client mode for audio input/output.**
+
 # **Credits and Support**
 Original W-okada Realtime Voice Changer by [w-okada](https://github.com/w-okada)<br>
 Original instructions by [Hina](https://github.com/HinaBl)<br>
