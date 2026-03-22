@@ -13,4 +13,4 @@ Original instructions by [Hina](https://github.com/HinaBl)<br>
 Wokada Deiteris Fork Realtime Voice Changer by [deiteris](https://github.com/deiteris)<br>
 Tunnels (Port Viewer, Cloudflare, LocalTunnel, Horizon), Decryption and Lightning.AI Port by [Nick088](https://linktr.ee/Nick088)<br>
 
-Need help? [AI Hub Discord](https://discord.gg/aihub)
+Need help? Ask in the [AI Hub Discord](https://discord.gg/aihub)
